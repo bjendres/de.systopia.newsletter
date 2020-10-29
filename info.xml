@@ -27,6 +27,9 @@
     for external newsletter management on a Drupal website, but may be used
     without it.
   </comments>
+  <requires>
+    <ext>de.systopia.xcm</ext>
+  </requires>
   <civix>
     <namespace>CRM/Newsletter</namespace>
   </civix>
